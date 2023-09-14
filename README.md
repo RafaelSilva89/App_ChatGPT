@@ -2,10 +2,9 @@
 Este repositório contém um script que permite a criação de um assistente virtual por meio de uma API.
 
 <div align="center">
-<img src="https://blog.umbler.com/wp-content/uploads/2017/03/5c01923bb0cae_giphy.gif">
+<img src="https://media.tenor.com/Va48lB-DGJkAAAAC/jim-carrey-typing.gif" width="300px">
 </div>
 </br>
-
 
 # _Objetivo do projeto_
 
